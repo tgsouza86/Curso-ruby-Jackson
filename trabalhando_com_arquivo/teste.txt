@@ -1,0 +1,30 @@
+tiago souza - ruby
+rails
+ruby
+teste
+
+
+
+4 Bio Medicamentos
+CNPJ: 07.015.691/0001-46 | Tipo: Vendedor | ID Regene: 6 | ID Clássica: 112775
+
+
+
+
+bundle exec rails tasks -T
+
+Install vim
+
+apt-get update
+apt-get install vim
+vim cnpjs.csv
+
+alterar = a
+
+esc : wq
+
+
+Nome da Raik esta dentro do Pull Request
+bundle exec rake -T | grep rails company
+
+bundle exec rake company:set_open_community[/bioid/cnpjs.csv]

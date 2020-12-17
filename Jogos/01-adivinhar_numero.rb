@@ -1,0 +1,1 @@
+/Documents/ruby-poo/Jogos/adivinhar_numerorubt
